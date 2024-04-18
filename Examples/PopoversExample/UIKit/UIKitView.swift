@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct UIKit: View {
+struct UIKitView: View {
     var body: some View {
         Section(
             header:
